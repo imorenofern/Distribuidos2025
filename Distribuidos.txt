@@ -1,5 +1,0 @@
-Hello World!
-
-Sistemas de Comunicacion Distribuidos
-
-4to Teleco

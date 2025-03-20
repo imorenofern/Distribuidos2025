@@ -1,11 +1,11 @@
 clear all
-clc
+
 
 num=input("Introduzca un número entero:");
 
 factorial=1;
 
-for i=1:num-1
+for i=1:num
     factorial=factorial*i;
 end
 
